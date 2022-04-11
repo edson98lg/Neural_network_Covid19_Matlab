@@ -18,7 +18,7 @@ El programa que realiza la red neuronal es (red_neuronal.mlx), y en la última s
 Este programa fue hecho antes de la aplicación de vacunas.
 
 ## Publicación 📄
-Si quieres saber más de lo que se realizó, puedes leer el articulo que publiqué en IEEE.
+Si quieres saber más de lo que se realizó, puedes leer el articulo que publiqué en IEEE. <br/>
 J. M. Campos, E. A. Lozano, J. Urzúa and J. G. Calderón, "Challenge Based Learning: A Fast Track To Introduce Engineering Students To Data Science," 2021 Machine Learning-Driven Digital Technologies for Educational Innovation Workshop, 2021, pp. 1-6, doi: 10.1109/IEEECONF53024.2021.9733765
 
 ## Expresiones de Gratitud 😊
