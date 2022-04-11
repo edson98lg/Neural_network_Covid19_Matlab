@@ -3,7 +3,7 @@ Esta red neuronal se entrenó con una base de datos del Gobierno de México, la 
 
 
 ## Base de datos
-La base de datos es del gobierno de mexico ( https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico ), esta base de datos primero se filtró con datos atípicos y se dejó los datos que serán el input y en la ultima columna el output, y así entrenarla.
+La base de datos es del gobierno de México ( https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico ), esta base de datos primero se filtró con datos atípicos y se dejó los datos que serán el input y en la ultima columna el output, y así entrenarla.
 
 ### Base de datos que se utilizó
 La base de datos que se utilizó se anexará en el documento con el nombre de (Datos_Covid_Mx.mat) para que pueda ser probada.
